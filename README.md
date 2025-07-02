@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-- 🔭 I’m currently working on Ansible projects, GitHub and DevOps.
-- 👯 I’m looking to collaborate on the projects that add value.
+- 🔭 Currently working on Ansible projects, GitHub and DevOps.
+- 👯 Looking to collaborate on the projects that add value.
 
 <!--
 **vsthakur120/vsthakur120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
